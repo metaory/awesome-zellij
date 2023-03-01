@@ -18,7 +18,7 @@ Awesome list for Zellij Configs and Plugins
 
 <!-- description -->
 
-[Zellij](CODE_OF_CONDUCT.md) is A terminal workspace with batteries included
+[Zellij](https://github.com/zellij-org/zellij) is A terminal workspace with batteries included
 
 
 
