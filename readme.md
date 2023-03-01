@@ -28,25 +28,35 @@ Awesome list for Zellij Configs and Plugins
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Plugins](#plugins)
+- [Themes](#Themes)
+- [Layouts](#layouts)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Plugins
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [compact-bar](https://github.com/zellij-org/zellij/tree/main/default-plugins/compact-bar) -
+- [status-bar](https://github.com/zellij-org/zellij/tree/main/default-plugins/status-bar) -
+- [strider](https://github.com/zellij-org/zellij/tree/main/default-plugins/strider) -
+- [tab-bar](https://github.com/zellij-org/zellij/tree/main/default-plugins/tab-bar) -
 
-## Section 1
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+## Themes
+
+- [example/themes](https://github.com/zellij-org/zellij/tree/main/example/themes) -
+
+## Layouts
+
+- [example/layouts](https://github.com/zellij-org/zellij/tree/main/example/layouts) -
 
 <!-- END CONTENT -->
 
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+- [Zellij-org](https://github.com/zellij-org) - A terminal workspace with batteries included :battery:
 
 Who else should we be following!?
 
