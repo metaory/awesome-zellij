@@ -1,14 +1,20 @@
+## 🚨 ARCHIVED in favor of 
+
+### [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij)
+
+---
+
 <div align="center">
 
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Zellij [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/metaory/awesome-zellij/actions/workflows/lint.yaml/badge.svg)](https://github.com/metaory/awesome-zellij/actions/workflows/lint.yaml)
+#### ~~Awesome Zellij [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/metaory/awesome-zellij/actions/workflows/lint.yaml/badge.svg)](https://github.com/metaory/awesome-zellij/actions/workflows/lint.yaml)~~
 
 <!-- subtitle -->
 
-Awesome list for Zellij Configs and Plugins
+~~Awesome list for Zellij Configs and Plugins~~
 
 <!-- image -->
 
